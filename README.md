@@ -22,5 +22,3 @@ pip install -r requirements.txt
 python source/scraper.py
 ```
 
-## Dataset
-El DOI del dataset será añadido después de su publicación en Zenodo.
